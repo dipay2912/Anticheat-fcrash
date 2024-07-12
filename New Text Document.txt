@@ -1,0 +1,4 @@
+	//ANTI FCRASH
+	if(GetPlayerWeapon(playerid)==40)return Kick(playerid);
+	//nodelay
+	//return 1;
